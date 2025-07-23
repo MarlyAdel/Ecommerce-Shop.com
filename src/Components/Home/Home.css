@@ -1,0 +1,12 @@
+.go-up {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(123, 195, 195);
+    color: #fff;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+}
