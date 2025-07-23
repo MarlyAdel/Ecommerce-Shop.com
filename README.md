@@ -1,6 +1,6 @@
 🛒 Ecommerce - Shop.com
 
-  🔗 Live Demo : shop-com-eta.vercel.app
+  🔗 Live Demo : https://shop-com-eta.vercel.app/
 
  💻 GitHub Repository : https://github.com/MarlyAdel/Ecommerce-Shop.com
 
